@@ -1,5 +1,3 @@
-import logger from './lib/logger';
+import logger from "./lib/logger";
 
-logger.error('Hello world!');
-
-const test = 'test';
+logger.info("Hello world!");
